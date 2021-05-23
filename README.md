@@ -10,7 +10,7 @@ Get your ratings displayed in bar graph with average rating from total stars (1 
 
 Then..
 
-...
+```
 import RatingBarGraph from 'react-native-star-rating-bar-graph'
 
 let Stars = {
@@ -25,3 +25,5 @@ fiveStar: 50,
 stars={stars}
 reviewCount={reviewCount} // out of how many reviews (optional)
 />
+
+```
