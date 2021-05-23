@@ -6,15 +6,10 @@ Get your ratings displayed in bar graph with average rating from total stars (1 
 
 # Instalation
 
-'npm i react-native-star-rating-bar-graph --save'
+`npm i react-native-star-rating-bar-graph --save`
 
 Then..
-<<<<<<< HEAD
-
 ```
-=======
-...
->>>>>>> 0605a0c95ec59a09d05dfcda084634aad476a591
 import RatingBarGraph from 'react-native-star-rating-bar-graph'
 
 let Stars = {
