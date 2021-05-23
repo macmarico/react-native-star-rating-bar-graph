@@ -1,8 +1,23 @@
 # react-native-star-rating-bar-graph
 
-# what is this
+# What is this
 
-Get your ratings displayed in bar graph with average rating from total stars (1 star , 2 star .... ,5stars).
+Get your star ratings displayed in bar graph.
+
+# How it works
+
+It takes and object where KEY is perticular star rating and VALUE is number of votes or number of people who chose that star rating. Then it calulates overall average and displays it in well designed bar graph.
+
+```javascript
+ Stars = {
+    oneStar: 25, // star type : total votes
+    twoStar: 30,
+    threeStar: 60,
+    fourStar: 80,
+    fiveStar: 50,
+}
+```
+
 
 # Instalation
 
