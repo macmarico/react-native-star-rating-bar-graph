@@ -4,7 +4,7 @@
 
 Get your star ratings displayed in bar graph.
 
-![bar-graph](https://user-images.githubusercontent.com/18231821/119258932-759e1300-bbe9-11eb-9e24-7fbc980ed0ba.jpg)
+
 
 # How it works
 
